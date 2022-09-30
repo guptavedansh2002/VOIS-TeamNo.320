@@ -8,9 +8,9 @@ We created a model to extract meaningful information from provided bill image by
 4) Convert the output into extractable form
 5) Finally, export the data into json format for further use.
 
-Technologies we used to make this project are: 
-Pytesseract - OCR engine for OCR
-Open CV - reading and manipulating image
-Spacy - NLP library for NER model
-JSON module - output the file in json format
+Technologies we used to make this project are:
+Pytesseract - OCR engine for OCR\n
+Open CV - reading and manipulating image\n
+Spacy - NLP library for NER model\n
+JSON module - output the file in JSON format\n
 Python - programming language
